@@ -1,0 +1,10 @@
+﻿{
+  "Id": "RainbowMod",
+  "DisplayName": "Rainbow - Hair colour mod",
+  "Author": "Perunq",
+  "Version": "1.0",
+  "ManagerVersion": "0.21.3",
+  "Requirements": [],
+  "AssemblyName": "RainbowMod.dll",
+  "EntryMethod": "RainbowMod.Main.Load"
+}
